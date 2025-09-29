@@ -358,8 +358,8 @@ The Solana documentation is organized into several key sections covering core co
 - [JavaScript Tests](https://solana.com/docs/toolkit/test-suite/js-test?utm_source=llms&utm_medium=ai&utm_campaign=txt): How to write fast tests for Solana programs in JavaScript and NodeJS using  Solana bankrun
 - [Local Validator](https://solana.com/docs/toolkit/local-validator?utm_source=llms&utm_medium=ai&utm_campaign=txt): How to run the Solana local validator for Solana local testing
 - [Mobile App](https://solana.com/docs/toolkit/projects/mobile-app?utm_source=llms&utm_medium=ai&utm_campaign=txt): How to create a mobile app on the Solana blockchain
-- [Overview](https://solana.com/docs/toolkit/test-suite/overview?utm_source=llms&utm_medium=ai&utm_campaign=txt)
 - [Overview](https://solana.com/docs/toolkit/projects/overview?utm_source=llms&utm_medium=ai&utm_campaign=txt): How to create a new project for Solana program development for beginners.
+- [Overview](https://solana.com/docs/toolkit/test-suite/overview?utm_source=llms&utm_medium=ai&utm_campaign=txt)
 - [Project layout](https://solana.com/docs/toolkit/projects/project-layout?utm_source=llms&utm_medium=ai&utm_campaign=txt): Best practices for Solana program repo and file structure when developing  Solana programs
 - [Rust Tests](https://solana.com/docs/toolkit/test-suite/rust-tests?utm_source=llms&utm_medium=ai&utm_campaign=txt): How to write tests for Solana programs in Rust with litesvm
 - [Security Scanner](https://solana.com/docs/toolkit/test-suite/security-scanner?utm_source=llms&utm_medium=ai&utm_campaign=txt): How to check for security vulnerabilities in Solana programs
